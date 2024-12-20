@@ -2,36 +2,28 @@
 
 ## Description
 
-This project is a Virtual Reality (VR) application designed to [state the purpose of the application, e.g., "reduce player eye strain" or "provide an immersive experience in a specific simulation environment"].
+Lucid Dialogue is a narrative VR game designed to enhance players' interpersonal communication skills. Players are trapped in a dream world and must build strong emotional connections through precise dialogue and interaction to escape. The game emphasizes the importance of empathy, credibility, and attentiveness in achieving effective communication.
 
 ---
 
 ## Key Features
 
-1. **[Feature 1]**: [Brief description of the feature, e.g., "Real-time object interaction in the VR environment"]
-2. **[Feature 2]**: [Brief description of the feature, e.g., "Object rotation adjustments for a more realistic experience"]
-3. **[Feature 3]**: [Brief description of the feature, e.g., "Optimized to reduce eye strain"]
+1. **Real-Time Rapport Building**: Players choose appropriate dialogue options to foster emotional connections with virtual characters.
+2. **Feedback System**: Receive instant visual and audio feedback to understand communication successes or failures.
+3. **Abstract Dreamscapes**: Surreal visuals reflect players' emotional progress, transitioning from cool, isolated tones to warm, welcoming hues.
+
 
 ---
 
 ## Requirement
 
-- Unity version [version used]
-- A compatible VR SDK (e.g., Oculus, HTC Vive, etc.)
-- [Additional devices or tools if required]
+- Unity version 2022.3.6f1
+- Oculus
 
 ---
 
 ## Developer
 
-- **Name:** [Developer Name]  
-  **Role:** [Developer Role, e.g., "Lead Developer"]  
-  **Contact:** [Developer Contact Information, e.g., email or GitHub profile]
-
-- **Name:** [Developer Name]  
-  **Role:** [Developer Role, e.g., "Lead Developer"]  
-  **Contact:** [Developer Contact Information, e.g., email or GitHub profile]
-
-- **Name:** [Developer Name]  
-  **Role:** [Developer Role, e.g., "Lead Developer"]  
-  **Contact:** [Developer Contact Information, e.g., email or GitHub profile]
+- **Name:** Alif Nimatulloh
+  **Role:** Programmer
+  **Contact:** rczfa27@gmail.com
