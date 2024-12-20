@@ -2,7 +2,7 @@
 
 ## Description
 
-Lucid Dialogue is a narrative VR game designed to enhance players' interpersonal communication skills. Players are trapped in a dream world and must build strong emotional connections through precise dialogue and interaction to escape. The game emphasizes the importance of empathy, credibility, and attentiveness in achieving effective communication.
+Lucid Dialogue is a narrative VR game designed to enhance players' interpersonal communication skills. Players are trapped in a dream world and must build strong emotional connections through precise dialogue and interaction to escape. The game emphasizes the importance of empathy, credibility, attentiveness, and building rapport to achieve effective communication. By fostering trust and mutual understanding, players learn how meaningful connections can unlock the path to freedom.
 
 ---
 
@@ -27,3 +27,11 @@ Lucid Dialogue is a narrative VR game designed to enhance players' interpersonal
 - **Name:** Alif Nimatulloh
   **Role:** Programmer
   **Contact:** rczfa27@gmail.com
+
+- **Name:** Ilham Nurhakim
+  **Role:** 3D Artist
+  **Contact:** 
+
+- **Name:** Rania Maharani
+  **Role:** UI/UX
+  **Contact:** 
