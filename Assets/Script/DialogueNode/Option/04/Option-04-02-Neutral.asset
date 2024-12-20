@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 982d76c07c79fd84fb52611321d9d9ea, type: 3}
+  m_Name: Option-04-02-Neutral
+  m_EditorClassIdentifier: 
+  text: Apakah ada tantangan tertentu yang ingin Anda selesaikan dalam pelatihan?
+  nextDialogue: {fileID: 11400000, guid: b38a91db04d55aa43a342c407e1ba284, type: 2}
+  rating: 1
+  audioClip: {fileID: 8300000, guid: 916fdebc412b8cc45ae496377a0d2089, type: 3}

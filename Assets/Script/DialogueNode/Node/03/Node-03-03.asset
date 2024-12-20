@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 694f01315a27c584fb22b6a2a2a1c860, type: 3}
+  m_Name: Node-03-03
+  m_EditorClassIdentifier: 
+  npcDialogue: Bisa lebih spesifik tentang manfaatnya?
+  options:
+  - {fileID: 11400000, guid: 3cdcb4af56914c14bb54ce9351ea564b, type: 2}
+  - {fileID: 11400000, guid: 48a6584655cb4cb42a3569118d751db4, type: 2}
+  - {fileID: 11400000, guid: 1328a0c25bf44a9458f938df54a28080, type: 2}
+  - {fileID: 11400000, guid: cc1f09e8ac5aebf419c7cee36cd89f7c, type: 2}
+  audioClip: {fileID: 8300000, guid: 9df6d268ed8ba1a42bf656e96a90f131, type: 3}

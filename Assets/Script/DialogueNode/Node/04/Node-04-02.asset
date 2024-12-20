@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 694f01315a27c584fb22b6a2a2a1c860, type: 3}
+  m_Name: Node-04-02
+  m_EditorClassIdentifier: 
+  npcDialogue: Kami fokus pada efisiensi dan hasil maksimal. Bagaimana solusi Anda
+    bisa mendukung itu?
+  options:
+  - {fileID: 11400000, guid: ef3c9054b2c363f46a4ff9c397d9907f, type: 2}
+  - {fileID: 11400000, guid: adc6d9d4e36c61a419ed71fdabd74221, type: 2}
+  - {fileID: 11400000, guid: 3082037b7aa97cd458dfd84c9fb7b91b, type: 2}
+  - {fileID: 11400000, guid: e7130aacf6eef8643812e898dd678394, type: 2}
+  audioClip: {fileID: 8300000, guid: 60e118d3fe8342b42aebff17a5fa7fe7, type: 3}

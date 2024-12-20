@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 982d76c07c79fd84fb52611321d9d9ea, type: 3}
+  m_Name: Option-08-02-Neutral
+  m_EditorClassIdentifier: 
+  text: Kapan kira-kira waktu yang tepat untuk demo?
+  nextDialogue: {fileID: 11400000, guid: 5e2542bd6614b3f4d8e27f1540971fae, type: 2}
+  rating: 1
+  audioClip: {fileID: 8300000, guid: f49664ed7ec1e7b43bec9120319033e1, type: 3}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 982d76c07c79fd84fb52611321d9d9ea, type: 3}
+  m_Name: Option-00-01-Good
+  m_EditorClassIdentifier: 
+  text: Selamat pagi, saya dari Smarteye. Terima kasih telah meluangkan waktu untuk
+    bertemu dengan saya hari ini.
+  nextDialogue: {fileID: 11400000, guid: 498466097538417439f2a03bd64e65c6, type: 2}
+  rating: 0
+  audioClip: {fileID: 8300000, guid: b27cf857e16e4b34a9fa44682f736859, type: 3}
