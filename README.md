@@ -25,5 +25,5 @@ Lucid Dialogue is a narrative VR game designed to enhance players' interpersonal
 ## Developer
 
 - **Name:** Alif Nimatulloh
-- **Role:** Programmer
-- **Contact:** rczfa27@gmail.com
+  **Role:** Programmer
+  **Contact:** rczfa27@gmail.com
